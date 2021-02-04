@@ -1,4 +1,5 @@
-const fullHost = "http://127.0.0.1:" + (process.env.HOST_PORT || 9090)
+const fullHost = "https://api.trongrid.io" //"http://127.0.0.1:" + (process.env.HOST_PORT || 9090)
+// https://api.trongrid.io - public node, 168.119.129.117:18888 - n10 node
 
 module.exports = {
 
